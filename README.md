@@ -1,4 +1,4 @@
-##                                                 💻 Proposta de recriação da interface inicial da mídia social Instagram 🎥
+##                                                 💻 Proposta de recriação da interface inicial do Netflix 🎥
 
 #### 🎯 Atividade desenvolvida com base no desafio "Recriando a Interface do Netflix":
 * Conceitos e projeto conduzidos e apresentados pelo especialista Felipe Aguiar;
